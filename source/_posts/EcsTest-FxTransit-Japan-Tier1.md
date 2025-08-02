@@ -4,7 +4,7 @@ date: 2025-08-02 15:52:23
 tags: EcsTest
 
 ---
-##前言
+## 前言
 FxTransit最近新出的机器，2c2g20g 居然有10g@10t ，很奇怪的搭配
 https://fxtransit.io/index.php/store/special/tier1-20250802
 
@@ -17,21 +17,21 @@ https://fxtransit.io/index.php/store/special/tier1-20250802
 
 ---
 
-##主观评价
+## 主观评价
 cpu出乎意料的好，虽然是2c，但单核可以有3.5k，加起来快7k
 硬盘内存都很常规，解锁个人认为中上游（如果没有特意做dns的话确实是很优秀了）
 网络的话，BgpTool上一看是Sakura才恍然大悟，那国际一定坏不到哪去，线接的很多，但有两个值得一提的点
 一个是到大陆的回程出乎意料的好，毕竟是冠以"Tier1"的机器嘛，当然肯定也不能指望一直都能保持的，毕竟不是宣传重点
 第二个是Ecs测试最后的网络测速，速度没测上来，不清楚是否是bbr没调的原因（Doria是开机就测，原汁原味），在文章末尾我还会附上一个Ookla Speedtest的链接，是我调了bbr之后的
-**Doria的bb**
+## Doria的bb
 以前没有在贵论坛发过帖子，这是第一次发（自豪）
 以前的Doria是经常泡在一个Telegram叫做“VPS商家评论频道”的群友，所以也会用群主的Ecs测试脚本进行测试，目前打算的是直接整个丢出来，脚本的分割线个人认为还算显眼，点评放在最前面，就当作是自己的风格了。看到论坛上大多数用的是NodeQuality脚本，带点异域风味来。
 
 ---
 
-##网络拓扑
+## 网络拓扑
 ![BGPTOOLS](https://bgp.tools/pathimg/rt-103.141.183.0_24?7abbd6b9-b8c6-4d7b-8f0e-650139647550&loggedin)
-##Ecs小连招测试
+## Ecs小连招测试
 ```
 测评频道: https://t.me/vps_reviews                    
 VPS融合怪版本：2025.07.10
