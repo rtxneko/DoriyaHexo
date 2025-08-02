@@ -2,8 +2,9 @@
 title: '[EcsTest] FxTransit Japan Tier1'
 date: 2025-08-02 15:52:23
 tags: EcsTest
+
 ---
-**前言**
+##前言
 FxTransit最近新出的机器，2c2g20g 居然有10g@10t ，很奇怪的搭配
 https://fxtransit.io/index.php/store/special/tier1-20250802
 
@@ -16,7 +17,7 @@ https://fxtransit.io/index.php/store/special/tier1-20250802
 
 ---
 
-**主观评价**
+##主观评价
 cpu出乎意料的好，虽然是2c，但单核可以有3.5k，加起来快7k
 硬盘内存都很常规，解锁个人认为中上游（如果没有特意做dns的话确实是很优秀了）
 网络的话，BgpTool上一看是Sakura才恍然大悟，那国际一定坏不到哪去，线接的很多，但有两个值得一提的点
@@ -28,9 +29,9 @@ cpu出乎意料的好，虽然是2c，但单核可以有3.5k，加起来快7k
 
 ---
 
-**网络拓扑**
+##网络拓扑
 ![BGPTOOLS](https://bgp.tools/pathimg/rt-103.141.183.0_24?7abbd6b9-b8c6-4d7b-8f0e-650139647550&loggedin)
-**Ecs小连招测试**
+##Ecs小连招测试
 ```
 测评频道: https://t.me/vps_reviews                    
 VPS融合怪版本：2025.07.10
