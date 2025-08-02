@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: DoriyaBlog
 subtitle: ''
-description: ''
+description: 'Welcome _<'
 keywords:
-author: John Doe
-language: en
-timezone: ''
+author: Doria
+language: zh-cn
+timezone: 'UTC +8'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://blog.shriko.sbs
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
